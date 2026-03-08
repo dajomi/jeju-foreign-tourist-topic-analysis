@@ -13,4 +13,4 @@ TripAdvisor 리뷰 데이터를 활용하여 제주도 외국인 관광객의 �
 - 외국인 관광객은 하이킹, 화산지형, 조경, 전시/실내 체험 중심의 관광 테마를 선호하는 경향을 보였습니다.
 
 ## 결과 이미지
-![전체 리뷰 핫스팟](./outputs/maps/hotspot_analysis.jpg)
+![전체 리뷰 핫스팟](./outputs/maps/hotspot_analysis.png)
