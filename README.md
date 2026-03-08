@@ -125,25 +125,7 @@ LDA 분석을 통해 외국인 관광객의 관광 테마 선호도를 확인할
 
 ---
 
-# 8. 프로젝트 구조
-
-jeju-foreign-tourist-topic-analysis
-data
-└ 리뷰 데이터
-src
-├ crawling
-├ preprocessing
-└ topic_modeling
-└ LDA.py
-outputs
-└ maps
-└ hotspot_analysis.png
-README.md
-
-
----
-
-# 9. 연구 의의
+# 8. 연구 의의
 
 본 연구는 TripAdvisor 리뷰 데이터를 활용하여 **외국인 관광객의 제주도 관광 선호를 데이터 기반으로 분석했다는 점에서 의의가 있다.**
 
@@ -153,7 +135,7 @@ README.md
 
 ---
 
-# 10. 연구 한계
+# 9. 연구 한계
 
 본 연구는 다음과 같은 한계를 가진다.
 
