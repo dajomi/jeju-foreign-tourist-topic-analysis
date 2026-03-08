@@ -1,0 +1,9 @@
+beautifulsoup4
+selenium
+webdriver-manager
+pandas
+numpy
+gensim
+matplotlib
+geopandas
+shapely
